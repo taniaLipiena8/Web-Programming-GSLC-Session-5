@@ -41,4 +41,34 @@
             </tbody>
         </table>
     </div>
+    <footer class="footer text-center fixed-bottom" style="background-color: rgb(221,221,221);">
+
+        <div class="container p-3">
+            <h5 >Our Social Media</h5>
+
+            <div class="row">
+
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <img src="https://cdn.exclaimer.com/Handbook%20Images/facebook-icon_32x32.png" alt="footer logo" style="width:32px;height:32px;">
+
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <img src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_32x32.png" alt="footer logo" style="width:32px;height:32px;">
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <img src="https://cdn.exclaimer.com/Handbook%20Images/TikTok_logo_32.png" alt="footer logo" style="width:32px;height:32px;">
+
+                </div>
+
+                <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                    <img src="https://cdn.exclaimer.com/Handbook%20Images/whatsapp_32.png" alt="footer logo" style="width:32px;height:32px;">
+
+                </div>
+            </div>
+        </div>
+        <div class="text-center p-3" style="background-color: rgb(151,151,151);">
+            Your Wardrobe
+        </div>
+        <!-- Copyright -->
+    </footer>
 @endsection
